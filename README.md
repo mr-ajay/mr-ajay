@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ajay and I'm Persuing from Rakshpal Bahadur Management Institute Bareilly</h2>
+<h2 align="left">Hi 👋! My name is Ajay and I'm Persuing MCA from Rakshpal Bahadur Management Institute Bareilly</h2>
 
 ###
 
